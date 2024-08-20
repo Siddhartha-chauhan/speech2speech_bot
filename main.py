@@ -7,7 +7,7 @@ import warnings
 import time
 import os
 
-wake_word = 'jarvis'
+wake_word = 'SID'
 
 model_complete_filepath='/Users/siddharthachauhan/Downloads/gpt4all-main/ggml-model-gpt4all-falcon-q4_0.gguf'
 model_path_directory, model_filename_complete = os.path.split(model_complete_filepath)
